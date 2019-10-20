@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body{
+	font-family: 'Roboto', sans-serif;
+	background: url(img/bg.jpg) no-repeat center center fixed;
+	background-size: cover;
+
+}
+.main-section
+{
+	margin: 0 auto;
+	margin-top: 130px;
+	padding: 0 ;
+
+}
+.modal-content {
+	background-color: #ffffff;
+	opacity: .95;
+	padding: 0 18px;
+	box-shadow: 0px 0px 5px #848484;
+
+
+}
+.user-img img{
+	height: 150px;
+	width: 150px;
+}
+
+	
+
+.butt1{
+	color: #31A6FF;
+	border:solid 2px #31A6FF;
+	border-radius: 30px;
+	padding : 10px 20px ;
+	margin-bottom: 60px;
+
+}
+.butt1:hover{
+	background-color: #31A6FF;
+	color: #fff;
+}
+.ing{
+	color: #ffffff;
+}
+.butt2{
+	color: #31A6FF;
+	border:solid 2px #31A6FF;
+	border-radius: 30px;
+	padding : 10px 20px;
+	margin-bottom: 60px;
+	
+}
+.butt2:hover{
+	background-color: #31A6FF;
+	color: #fff;
+}
+.butt3{
+	color: #31A6FF;
+	border:solid 2px #31A6FF;
+	border-radius: 30px;
+	padding : 10px 20px;
+	margin-bottom: 60px;
+
+}
+.butt3:hover{
+	background-color: #31A6FF;
+	color: #fff;
+}
+
+
+/*.butt{
+	width: 60%;
+	margin: 60px 60px 60px;
+}
+
+/*.butt{
+	background-color: #000000;
+	background-size: 100px 100px 100px
+
+}
+
+.butt:hover, .butt:focus {
+	background-color: #00EFFF;
+}
+/*
+.but2{
+	width: 60%;
+	margin: 50px 50px 50px;
+}
+.btn2{
+	background-color: #b0dfe5;
+
+}
+.btn2:hover, .btn:focus {
+	background-color: #00EFFF;
+}
+.btn3{
+	width: 60%;
+	margin: 50px 50px 50px;
+}
+.btn3{
+	background-color: #b0dfe5;
+
+}
+.btn3:hover, .btn:focus {
+	background-color: #00EFFF;
+} */
+
+
+
